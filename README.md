@@ -1,5 +1,5 @@
 # Bsdiff
-##Incremental Update
+##  Incremental Update
 
     1、Upload bsdiff archive to server or linux system
     2、Modify the Makefile
